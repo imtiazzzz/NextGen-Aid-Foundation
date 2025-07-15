@@ -1,0 +1,23 @@
+|-- css
+    |-- style.css
+|-- images
+    |-- 11.png
+    |-- dollar.png
+    |-- donate-img.jpeg
+    |-- PIC.png
+    |-- pic1.png
+    |-- pic2.png
+    |-- pic3.png
+    |-- pic4.png
+    |-- tick-mark1.png
+|-- img
+    |-- Homepage.png
+    |-- paymentPage.png
+    |-- paymentSuccess.png
+|-- index.html
+|-- js
+    |-- easyResponsiveTabs.js
+    |-- jquery.min.js
+|-- paymentPage.html
+|-- README.md
+|-- successPage.html
